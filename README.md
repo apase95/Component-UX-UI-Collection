@@ -7,7 +7,7 @@
 ![React Icons](https://img.shields.io/badge/React_Icons-Latest-EB1F6A)
 ![Markdown](https://img.shields.io/badge/React_Markdown-Plugin-000000)
 
-A modern **Dark Theme UI Component Collection** built with **React + TypeScript + Tailwind CSS**
+A modern **Dark Theme UI Component Collection** built with **React + TypeScript + Tailwind CSS**.
 
 ---
 ## 🎨 Design Style
